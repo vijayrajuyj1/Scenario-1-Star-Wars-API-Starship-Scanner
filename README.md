@@ -9,7 +9,6 @@ Star Wars film using the Star Wars API.
 
 STEPS: 
 
-
  1. Download Python3 from the official website 
 
    $ sudo apt install python3 -y
