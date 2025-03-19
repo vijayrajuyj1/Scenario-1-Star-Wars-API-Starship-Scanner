@@ -7,29 +7,39 @@ Star Wars film using the Star Wars API.
 In this task i am using python3 for retrieves all starships and their pilots from a given
 Star Wars film using the Star Wars API.
 
-STEPS:
+STEPS: 
+
 
  1. Download Python3 from the official website 
 
-$ sudo apt install python3 -y
+   $ sudo apt install python3 -y
 
 2. Check the version 
 
-$ python3 --version
+   $ python3 --version
 
-3. Write the python script to  retrieves all starships and their pilots from a given
+3. Run the following command in your terminal to install the requests library:
+
+   $ pip install requests
+   
+ If you're using Python 3, try:
+
+   $ pip3 install requests
+ 
+  
+5. Write the python script to  retrieves all starships and their pilots from a given
 Star Wars film using the Star Wars API.
 
-Note: The python script was there in this repo (starships_pilots.py)
+    Note: The python script was there in this repo (starships_pilots.py)
 
-4. Excute that file with command-line arguments
+5. Excute that file with command-line arguments
 
    -> python3 starships_pilots.py "A new Hope"
 
-5. The Expected output was in JSON format: 
+6. The Expected output was in JSON format: 
 
-   {
-    "film": "A new hope",
+{
+    "film": "A new Hope",
     "starships": [
         {
             "starship": "CR90 corvette",
