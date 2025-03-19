@@ -26,7 +26,7 @@ Note: The python script was there in this repo (starships_pilots.py)
 
    -> python3 starships_pilots.py "A new Hope"
 
-5. The Expected output: 
+5. The Expected output was in JSON format: 
 
    {
     "film": "A new hope",
@@ -77,6 +77,3 @@ Note: The python script was there in this repo (starships_pilots.py)
         }
     ]
 }
-
-
-   
