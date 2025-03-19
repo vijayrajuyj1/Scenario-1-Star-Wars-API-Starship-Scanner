@@ -33,8 +33,7 @@ $ pip3 install requests
 
 **3️⃣ Clone This Repository**
 
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/vijayrajuyj1/Scenario-1-Star-Wars-API-Starship-Scanner.git
 
 **4️⃣ Python Script for Retrieving Starships and Pilots**
 
